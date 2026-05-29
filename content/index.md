@@ -16,7 +16,7 @@ publish: true
 | [[Projects/IsaacSim\|Isaac Sim 虛擬場景]] | 建置中 | 🟡 進行中 | 戶外貼圖 Isaac 不支援 |
 | [[Projects/ROS2\|ROS2 控制整合]] | 起步 | 🔴 早期 | Gazebo 在 Thor 失敗，改走 Isaac ROS |
 | [[Projects/Paper\|頂刊論文]] | 文獻調查 | 🟡 規劃中 | 演算法切入點待定 |
-| [[Projects/TaiwanGermany\|台德計畫（行政）]] | 執行中 | 🟢 持續 | — |
+| [[Projects/AIprojectAssistant \|AI計畫（行政）]] | 執行中 | 🟢 持續 | — |
 
 圖例：🟢 順利　🟡 進行中　🔴 早期或卡關
 
