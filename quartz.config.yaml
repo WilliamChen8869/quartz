@@ -10,7 +10,7 @@ configuration:
   baseUrl: WilliamChen8869.github.io/quartz
   ignorePatterns:
     - private
-    - templates
+    - _templates
     - .obsidian
   theme:
     fontOrigin: googleFonts
